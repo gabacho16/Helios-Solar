@@ -35,3 +35,18 @@ body {
 .nav a:hover {
   color: #f9b233;
 }
+
+.container {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+h2 {
+    margin-bottom: 1rem;
+    color: #f9b233;
+}
