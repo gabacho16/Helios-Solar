@@ -72,6 +72,12 @@ h2 {
     object-fit: cover;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 .project-card h3 {
   margin: 1rem;
   color: #333;
